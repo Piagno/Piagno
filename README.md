@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Piagno
+- 👀 I’m interested in trains, sport, programming.
+- 🌱 I’m currently learning rust.
+- 💞️ I’m looking to collaborate on rusty things.
